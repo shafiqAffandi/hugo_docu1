@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://shafiqaffandi.github.io/hugo_docu1"
 languageCode = "en-us"
 title = "Hugo Whisper Theme"
 themesDir = "themes"
